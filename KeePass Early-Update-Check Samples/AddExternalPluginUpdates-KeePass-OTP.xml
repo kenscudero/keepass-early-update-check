@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdateInfoExternList>
+	<UpdateInfoExtern>
+		<PluginName>KeePassOTP</PluginName>
+		<PluginURL>https://keepass.info/plugins.html#kpotp</PluginURL>
+		<PluginUpdateURL>https://github.com/Rookiestyle/KeePassOTP/releases/download/v{major}.{minor}/KeePassOTP.plgx</PluginUpdateURL>
+		<UpdateMode>PlgxDirect</UpdateMode>
+		<AllowVersionStripping>True</AllowVersionStripping>
+	</UpdateInfoExtern>
+</UpdateInfoExternList>

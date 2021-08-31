@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdateInfoExternList>
+	<UpdateInfoExtern>
+		<PluginName>KeePassQuickUnlock</PluginName>
+		<PluginURL>https://keepass.info/plugins.html#quickunlock</PluginURL>
+		<PluginUpdateURL>https://github.com/JanisEst/KeePassQuickUnlock/releases/download/v{major}.{minor}/KeePassQuickUnlock.plgx</PluginUpdateURL>
+		<UpdateMode>PlgxDirect</UpdateMode>
+		<AllowVersionStripping>True</AllowVersionStripping>
+	</UpdateInfoExtern>
+</UpdateInfoExternList>

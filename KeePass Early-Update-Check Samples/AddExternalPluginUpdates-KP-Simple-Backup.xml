@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdateInfoExternList>
+	<UpdateInfoExtern>
+		<PluginName>KPSimpleBackup</PluginName>
+		<PluginURL>https://keepass.info/plugins.html#kpsimplebackup</PluginURL>
+		<PluginUpdateURL>https://github.com/marvinweber/KPSimpleBackup/releases/download/v(major}.{minor}.{build}/KPSimpleBackup-v{major}.{minor}.{build}.zip</PluginUpdateURL>
+		<UpdateMode>ZipExtractPlgx</UpdateMode>
+		<AllowVersionStripping>True</AllowVersionStripping>
+	</UpdateInfoExtern>
+</UpdateInfoExternList>

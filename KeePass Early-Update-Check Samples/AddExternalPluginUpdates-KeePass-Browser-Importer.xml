@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdateInfoExternList>
+	<UpdateInfoExtern>
+		<PluginName>KeePassBrowserImporter</PluginName>
+		<PluginURL>https://keepass.info/plugins.html#browserimporter</PluginURL>
+		<PluginUpdateURL>https://github.com/JanisEst/KeePassBrowserImporter/releases/download/v{major}.{minor}.{build}/KeePassBrowserImporter.plgx</PluginUpdateURL>
+		<UpdateMode>PlgxDirect</UpdateMode>
+		<AllowVersionStripping>True</AllowVersionStripping>
+	</UpdateInfoExtern>
+</UpdateInfoExternList>

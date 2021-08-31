@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdateInfoExternList>
+	<UpdateInfoExtern>
+		<PluginName>KeeAgent</PluginName>
+		<PluginURL>https://keepass.info/plugins.html#keeagent</PluginURL>
+		<PluginUpdateURL>https://lechnology.com/wp-content/uploads/2020/08/KeeAgent_v{major}.{minor}.{build}.zip</PluginUpdateURL>
+		<UpdateMode>ZipExtractPlgx</UpdateMode>
+		<AllowVersionStripping>True</AllowVersionStripping>
+	</UpdateInfoExtern>
+</UpdateInfoExternList>
