@@ -12,11 +12,10 @@
     <iconUrl>https://cdn.statically.io/gh/dtgm/chocolatey-packages/master/icons/keepass.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>
+KeePass Early Update Check is a plug-in for [_KeePass 2.x_](http://www.KeePass.info) which lets you perform a KeePass update check BEFORE opening a database and automatically update plugins.
 ___
 ### [choco://keepass-browser-importer](choco://keepass-early-update-check)
 To use choco:// protocol URLs, install [(unofficial) choco:// Protocol support ](https://chocolatey.org/packages/choco-protocol-support)
-___
-KeePass Early Update Check is a plug-in for [_KeePass 2.x_](http://www.KeePass.info) which lets you perform a KeePass update check BEFORE opening a database and automatically update plugins.
 ___
 **[PACKAGE NOTES](https://github.com/Rookiestyle/EarlyUpdateCheck/blob/master/readme.md)**
     </description>
