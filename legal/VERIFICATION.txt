@@ -1,7 +1,0 @@
-﻿VERIFICATION
-Verification is intended to assist the Chocolatey moderators and community
-in verifying that this package's contents are trustworthy.
-
-Download appropriate version from https://github.com/rookiestyle/earlyupdatecheck/releases/latest/download/EarlyUpdateCheck.plgx
-
-Calculate checksum (eg. using Get-FileHash) and compare with checksum for EarlyUpdateCheck.plgx file included in this package.
